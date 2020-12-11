@@ -1,1 +1,7 @@
-Please Work!
+Please Work!I swear to god if I ever have to integrate another NLP laungage model I will. I would definitely use it in this case. I have been using the one from the IBM book on brain and language processing and it is very good.
+
+I like the fact that the model can be trained without the need to make a single query, but it is still a model.
+
+This model is also very easy to use. You can just run a query and it will give you a list of all the words you asked for.
+
+It is also very quick to train
